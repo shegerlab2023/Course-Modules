@@ -21,6 +21,16 @@
 - Creating Users Manually in the Jenkins DB
 - Creating and Managing Roles for Jenkins Users
 
-## Module 5 – Jenkins Email Integration
+## Module 5 – Jenkins Email Integration and Notifications
 - Installing a Mail Plugin
-- Integrating Jenkins and G-mail
+- Integrating Jenkins with G-mail
+- Adding Notifications to your Jobs
+
+## Module 6 – Jenkins Ansible Integration
+- Storing Playbooks, Inventory, and Configuration Files on GitHub
+- Automatically Pulling Code from GitHub then Running on Ansible Server
+
+## Module 7 – CI/CD with Jenkins and Terraform
+- Storing Terraform Files, Playbooks, Inventory, and Configuration Files on GitHub
+- Automatically Deploying VMs With the Help of Terraform
+- Running Ansible Playbooks to Configure Deployed Machines

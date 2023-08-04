@@ -34,3 +34,5 @@
 - Storing Terraform Files, Playbooks, Inventory, and Configuration Files on GitHub
 - Automatically Deploying VMs With the Help of Terraform
 - Running Ansible Playbooks to Configure Deployed Machines
+
+Course organized by [CloudSheger](https://cloudsheger.com)

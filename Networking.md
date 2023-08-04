@@ -64,3 +64,5 @@ By the end of this masterclass, participants will have a solid foundation in com
 
 ## Prerequisites
 Participants should have basic computer literacy and a general understanding of technology concepts. No prior networking knowledge is required, as the masterclass will start with fundamental topics and progress gradually.
+
+Course organized by [CloudSheger](https://cloudsheger.com)

@@ -1,68 +1,63 @@
-# Computer Networking for DevOps
+# Module: Fundamentals of Networking for DevOps
 
 ## Overview
-The Computer Networking Masterclass offers a comprehensive learning experience, providing participants with a solid understanding of computer networking concepts and technologies. This masterclass covers the basics of computer networks, internet fundamentals, network devices and components, network protocols, and network security. Participants will gain both theoretical knowledge and practical, hands-on training through interactive sessions with live demonstrations and real-world examples.
+In this module, we will introduce the fundamentals of networking, with a focus on concepts relevant to DevOps professionals. Understanding networking is crucial for DevOps practitioners as it forms the foundation for communication and data transfer in modern software applications and infrastructure.
 
-## Table of Contents
-1. [Introduction to Computer Networking](#introduction-to-computer-networking)
-2. [Internet Fundamentals](#internet-fundamentals)
-3. [Network Devices and Components](#network-devices-and-components)
-4. [Network Protocols and Standards](#network-protocols-and-standards)
-5. [Network Security](#network-security)
-6. [Course Highlights](#course-highlights)
+## Learning Objectives
+- Understand the basic concepts and terminologies used in networking.
+- Learn about networking protocols, devices, and architectures.
+- Gain insights into how networking impacts modern software development and infrastructure management.
 
-## Introduction to Computer Networking
-- Importance of computer networks
-- Types of computer networks (LAN, WAN, MAN)
-- Network topologies and their characteristics
-- OSI Model
+## Topics Covered
 
-## Internet Fundamentals
-- How the Internet works
-- Domain Name System (DNS)
-- Internet Protocol version 6 (IPv6)
+### 1. Introduction to Networking
+- Definition and Importance of Networking in DevOps
+- Network Topologies: Bus, Star, Ring, and Mesh
 
-## Network Devices and Components
-- Hubs, switches, and routers
-- Wireless access points
-- Network Interface Cards (NICs)
-- Cables and connectors
-- Topologies
+### 2. Networking Protocols
+- Understanding the OSI Model
+- TCP/IP Protocol Suite
+- Common Networking Protocols: HTTP, HTTPS, DNS, FTP, SSH, etc.
 
-## Network Protocols and Standards
-- OSI and TCP/IP models
-- IP addressing and subnetting
-- Common network protocols (HTTP, FTP, SMTP, etc.)
+### 3. Network Devices
+- Routers, Switches, and Hubs
+- Firewalls and Load Balancers
+- Network Address Translation (NAT)
 
-## Network Security
-- Firewalls and intrusion detection systems
-- Encryption and authentication methods
-- Virtual Private Networks (VPNs)
+### 4. Network Security
+- Basic Network Security Concepts
+- Securing Network Communication with SSL/TLS
+- Overview of Virtual Private Networks (VPNs)
 
-## Course Highlights
-- Expert instructors with years of industry experience
-- Interactive sessions with live demonstrations and real-world examples
-- Comprehensive course material, including video lectures, slides, reference materials, and notes
-- Quizzes and assessments to test understanding of the concepts
-- Dedicated support from Community Builders to assist with queries or issues
-- Networking opportunities with fellow students and professionals in the field
+### 5. Cloud Networking
+- Networking in Cloud Environments (AWS, Azure, GCP)
+- Virtual Private Clouds (VPCs) and Subnets
+- Networking Services in the Cloud
 
-## Delivery
-This masterclass will be delivered through a combination of online and interactive sessions. Each topic will have video lectures, slides, and reference materials accessible to participants. Live demonstrations and real-world examples will be used to reinforce theoretical concepts and provide practical exposure. Quizzes and assessments will be conducted to evaluate participants' understanding and progress.
+### 6. Containers and Networking
+- Networking in Containerized Environments (Docker, Kubernetes)
+- Container Networking Models: Bridge, Host, Overlay, etc.
+- Network Plugins and Solutions for Container Networking
 
-## Duration
-The module can be customized based on the participants' needs and the level of depth desired. A recommended timeline for the entire masterclass would be 8-12 weeks, with each week focusing on specific topics. However, it can be adapted to shorter or longer durations as required.
+### 7. Microservices and Service Mesh
+- Networking Challenges in Microservices Architecture
+- Introduction to Service Mesh (e.g., Istio, Linkerd)
+- Benefits of Service Mesh in Microservices Communication
 
-## Target Audience
-- Students and beginners interested in computer networking
-- IT professionals seeking to expand their networking knowledge and skills
-- Network administrators and engineers looking to enhance their expertise
-- Anyone with a curiosity about how computer networks work and their importance in the digital age.
+## Hands-On Practice
+- Setting up a simple network using virtual machines
+- Configuring network devices and security rules
+- Deploying and managing containers with different networking models
 
-## Outcome
-By the end of this masterclass, participants will have a solid foundation in computer networking concepts, internet fundamentals, network devices, protocols, and security. They will be equipped with practical skills and theoretical knowledge to design, implement, and manage computer networks effectively and securely.
+## Assessment and Certification
+Participants will be evaluated based on their understanding of networking concepts and their ability to apply them in hands-on exercises. A certificate of completion will be awarded to successful participants.
 
 ## Prerequisites
-Participants should have basic computer literacy and a general understanding of technology concepts. No prior networking knowledge is required, as the masterclass will start with fundamental topics and progress gradually.
+- Basic understanding of computer systems and software development concepts.
 
-Course organized by [CloudSheger](https://cloudsheger.com)
+## Target Audience
+- DevOps beginners and IT professionals interested in learning networking fundamentals.
+- Software developers and system administrators seeking to enhance their networking knowledge in the context of DevOps.
+
+## Duration
+This module is designed to be covered in approximately 8-10 hours of training, including theoretical sessions, hands-on practice, and assessments.

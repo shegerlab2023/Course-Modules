@@ -90,3 +90,5 @@ Learn about common Git workflows, such as centralized and feature branch workflo
 Initiate and respond to pull requests to propose and review changes in a collaborative manner.
 
 **Note:** This guide is designed for beginners, and it covers the fundamental concepts and commands to get started with Git and GitHub. As you progress in your understanding, you can explore more advanced topics and collaborative workflows in software development. Happy coding! 🚀
+
+Course organized by [CloudSheger](https://cloudsheger.com)

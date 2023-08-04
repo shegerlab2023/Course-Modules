@@ -1,4 +1,4 @@
-# Module: Fundamentals of Ansible for DevOps Beginners
+# Module: Fundamentals of Ansible for DevOps
 
 ## Overview
 In this module, we will introduce the fundamentals of Ansible, a popular configuration management and automation tool in the DevOps ecosystem. Ansible simplifies the management and deployment of infrastructure, making it a valuable skill for DevOps practitioners. Understanding Ansible basics will empower DevOps beginners to automate repetitive tasks and streamline their software deployment processes.

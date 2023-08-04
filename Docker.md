@@ -1,4 +1,4 @@
-# Module: Fundamentals of Docker for DevOps Beginners
+# Module: Fundamentals of Docker for DevOps
 
 ## Overview
 In this module, we will introduce the fundamentals of Docker, a popular containerization platform used extensively in the DevOps ecosystem. Docker enables the creation and management of lightweight, portable containers, making it a valuable skill for DevOps practitioners. Understanding Docker basics will empower DevOps beginners to package applications and services into containers, facilitating seamless deployment and scaling.

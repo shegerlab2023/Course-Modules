@@ -43,3 +43,4 @@
 - Manage and Track Inventory
 - Remote Command Execution
 - Case Study
+Course organized by [CloudSheger](https://cloudsheger.com)

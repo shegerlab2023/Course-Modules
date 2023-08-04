@@ -1,65 +1,69 @@
-# Terraform with AWS
+# Module: Fundamentals of Terraform for DevOps
 
-## Module 1 - Getting Started & Setting Up Labs
-- Choosing the Right Infrastructure as Code Tool
-- Terraform Overview
-- Installing Terraform - Windows Users
-- Difference between Terraform and Ansible
-- Setting up AWS Account
-- Introduction to AWS CLI
-- Authenticate AWS with Terraform
-- Terraform init, plan, and apply
+## Overview
+In this module, we will introduce the fundamentals of Terraform, a popular infrastructure as code (IaC) tool used extensively in the DevOps ecosystem. Terraform enables the creation, modification, and management of cloud infrastructure in a declarative manner, making it a valuable skill for DevOps practitioners. Understanding Terraform basics will empower DevOps beginners to automate infrastructure provisioning and deployments.
 
-## Module 2 – Building Cloud Infrastructure with Terraform
-- Introduction to Terraform with AWS
-- Create Resource Group
-- Terraform Destroy
-- AWS Virtual Private Cloud (VPC)
-- AWS Subnet
-- AWS Elastic IP (EIP)
-- AWS Network Interface
-- Create Windows and Linux EC2 Instances
-- AWS S3 Bucket
-- Security Groups
-- Load Balancers
-- Understanding Terraform State files
-- Understanding Desired & Current States
-- Terraform Provider Versioning
-- Types of Terraform Providers
-- Methods to Define Terraform Provider Version
+## Learning Objectives
+- Understand the role of Terraform in the DevOps workflow.
+- Learn Terraform components, configuration, and resource management.
+- Gain insights into using Terraform for cloud infrastructure provisioning.
 
-## Module 3 - Read, Generate, Modify Configurations
-- Understanding Attributes and Output Values in Terraform
-- Referencing Cross-Account Resource Attributes in Terraform
-- Variables
-- Methods to Define Variables
-- Data Types for Variables
-- Fetching Data from Maps and Lists in Variables
-- Count and Count Index
-- For_each
-- Create multiple EC2 Instances with Terraform
-- Conditional Expressions
-- Local Values
-- Splat Expressions
-- Terraform Functions
-  - Lookup Function
-  - Element Function
-  - Zipmap Function
-- Data Sources
-- Terraform Format
-- Validating Terraform
-- Terraform Graph
-- Saving Terraform Plan to File
+## Topics Covered
 
-## Module 4 - Terraform Provisioners
-- Understanding Provisioners in Terraform
-- Types of Provisioners
-- Implementing remote-exec provisioners
-- Implementing local-exec provisioners
+### 1. Introduction to Terraform
+- Definition and Importance of Terraform in DevOps
+- Terraform Architecture and How It Works
+- Declarative vs. Imperative IaC
 
-## Module 5 - Terraform Modules & Workspaces
-- Understanding DRY (Don't Repeat Yourself) principle
-- Variables and Terraform Modules
-- Terraform Registry
-- Terraform Workspace
-- Implementing Terraform Workspace
+### 2. Terraform Installation and Configuration
+- Installing Terraform on Different Platforms (Linux, Windows, macOS)
+- Configuring Terraform Providers and Authentication
+- Terraform State Management
+
+### 3. Terraform Configuration Files
+- Understanding Terraform Configuration Language (HCL)
+- Writing Your First Terraform Configuration
+- Terraform Variables and Input Parameters
+
+### 4. Terraform Resources and Providers
+- Terraform Resources and Resource Types
+- Interacting with Cloud Providers (AWS, Azure, GCP)
+- Managing Multiple Cloud Resources with Terraform
+
+### 5. Terraform Modules
+- Creating Reusable Terraform Modules
+- Best Practices for Structuring Terraform Code
+- Sharing and Managing Terraform Modules
+
+### 6. Terraform State and State Management
+- Understanding Terraform State
+- Remote State Management with Backends
+- Terraform State Locking and Concurrency
+
+### 7. Terraform Deployment and Automation
+- Using Terraform to Provision Cloud Infrastructure
+- Terraform Apply and Destroy
+- Integrating Terraform with CI/CD Pipelines
+
+### 8. Terraform Provisioners and Local Exec
+- Implementing Provisioners for Customization
+- Executing Local Commands in Terraform
+
+## Hands-On Practice
+- Installing Terraform and Configuring Providers
+- Writing Terraform Configuration Files
+- Creating and Managing Cloud Resources with Terraform
+- Deploying Infrastructure Using Terraform
+
+## Assessment and Certification
+Participants will be evaluated based on their understanding of Terraform concepts and their ability to apply them in hands-on exercises. A certificate of completion will be awarded to successful participants.
+
+## Prerequisites
+- Basic understanding of computer systems and cloud computing concepts.
+
+## Target Audience
+- DevOps beginners and IT professionals interested in learning Terraform fundamentals.
+- Software developers and system administrators seeking to automate infrastructure provisioning using Terraform in the context of DevOps.
+
+## Duration
+This module is designed to be covered in approximately 8-10 hours of training, including theoretical sessions, hands-on practice, and assessments.
